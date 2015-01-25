@@ -33,7 +33,7 @@ $font-bold: 700;
 
 // MISC: base fonts/colors
 $body-font-size: em(14);
-$body-line-height: golden-ratio(.875em, 1);
+$body-line-height: modular-scale(.875em, 1);
 $base-font-color: rgb(60,60,60);
 $baseFontColor: rgb(60,60,60);
 $base-font-color: rgb(60,60,60);
